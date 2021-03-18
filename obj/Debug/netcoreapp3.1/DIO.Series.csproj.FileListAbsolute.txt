@@ -1,0 +1,24 @@
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+c:\Users\Marcelo Victor\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+c:\Users\Marcelo Victor\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+c:\Users\Marcelo Victor\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+c:\Users\Marcelo Victor\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+c:\Users\Marcelo Victor\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+c:\Users\Marcelo Victor\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+c:\Users\Marcelo Victor\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+c:\Users\Marcelo Victor\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+c:\Users\Marcelo Victor\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+c:\Users\Marcelo Victor\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+c:\Users\Marcelo Victor\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb

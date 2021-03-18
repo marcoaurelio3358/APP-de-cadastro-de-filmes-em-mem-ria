@@ -1,0 +1,11 @@
+C:\Users\Marcelo Victor\DIO.filmes\bin\Debug\netcoreapp3.1\DIO.filmes.exe
+C:\Users\Marcelo Victor\DIO.filmes\bin\Debug\netcoreapp3.1\DIO.filmes.deps.json
+C:\Users\Marcelo Victor\DIO.filmes\bin\Debug\netcoreapp3.1\DIO.filmes.runtimeconfig.json
+C:\Users\Marcelo Victor\DIO.filmes\bin\Debug\netcoreapp3.1\DIO.filmes.runtimeconfig.dev.json
+C:\Users\Marcelo Victor\DIO.filmes\bin\Debug\netcoreapp3.1\DIO.filmes.dll
+C:\Users\Marcelo Victor\DIO.filmes\bin\Debug\netcoreapp3.1\DIO.filmes.pdb
+C:\Users\Marcelo Victor\DIO.filmes\obj\Debug\netcoreapp3.1\DIO.filmes.csprojAssemblyReference.cache
+C:\Users\Marcelo Victor\DIO.filmes\obj\Debug\netcoreapp3.1\DIO.filmes.AssemblyInfoInputs.cache
+C:\Users\Marcelo Victor\DIO.filmes\obj\Debug\netcoreapp3.1\DIO.filmes.AssemblyInfo.cs
+C:\Users\Marcelo Victor\DIO.filmes\obj\Debug\netcoreapp3.1\DIO.filmes.dll
+C:\Users\Marcelo Victor\DIO.filmes\obj\Debug\netcoreapp3.1\DIO.filmes.pdb
